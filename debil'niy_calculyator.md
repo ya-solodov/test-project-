@@ -1,5 +1,6 @@
 # test-project-
 # debil'niy calculyator
+
 what = input("Что делаем? (+, -): ")
 
 a = float( input("Введите первое число: "))
